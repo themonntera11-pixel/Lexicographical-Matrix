@@ -1,2 +1,2 @@
 # Lexicographical-Matrix
-Oʻzbek tili, Sharq falsafasi va IT terminlarini sintez qiluvchi innovatsion tizim. 128 ta fundamental maʼnaviy tushunchani Python algoritmlari (Data Integrity, Hash) va Excel matritsalari orqali matematik modelga oʻtkazadi. Yoshlarga dasturlash mantiqini milliy qadriyatlar orqali oʻrgatuvchi yangi avlod EduTech platformasi.
+An innovative system that synthesizes Uzbek language, Eastern philosophy and IT terms. It translates 128 fundamental spiritual concepts into a mathematical model using Python algorithms (Data Integrity, Hash) and Excel matrices. A new generation EduTech platform that teaches programming logic to young people through national values.
